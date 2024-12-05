@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+pillow
+tkinter
+joblib
+matplotlib
+pickle
